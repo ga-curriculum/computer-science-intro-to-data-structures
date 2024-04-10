@@ -1,50 +1,27 @@
 # ![[tktk Module Name]](./assets/tktk-hero.png)
 
-## About
+Data Structures features seven lessons that cover foundational data structures: linked lists, stacks, queues, hash tables, sets, binary trees, AVL trees, tries, and graphs.
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+There is one components to this lesson:
+
+1. [Introduction to Data Structures](./intro-to-data-structures/README.md)
+
+## Learning Objectives
+
+By the end of this lesson, you'll be able to:
+
+- Explain how data structures are used in computer science.
+- Define the five basic operations to perform on a data structure.
+- Build an array and perform basic functions in it.
 
 ## Prerequisites
 
 - tktk
 
-## Time to complete
+## Duration
 
-Estimated time to complete core lab exercise: **tktk min**
+- 30 minutes
 
-## Starter code
+## Additional Resources
 
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](#tktk-repository-for-starter-code)
-
-## Content
-
-- [Setup](./setup/README.md)
-- [Exercise](./exercise/README.md)
-
-## Level Up
-
-🚀 [Level Up](./level-up/README.md) tktk - remove section if no level ups exist.
-
-## Solution code
-
-🏁 [tktk Solution code](#tktk-external-repo-link-url)
-
-## Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](#tktk-deployed-app-url)
-
-🐙 [Repository](#tktk-repository-for-deployed-app)
-
-## Internal resources
-
-✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
-
-🏗️ [Release Notes](./internal-resources/release-notes.md)
-
----
-
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+- [tktk](tktk)
