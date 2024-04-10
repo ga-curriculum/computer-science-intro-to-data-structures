@@ -8,10 +8,6 @@ Data structures — how hard could they be? You put your data in a certain struc
 
 Take this data set, for example.
 
-A data “structure” is like a container that stores data in a specific, organized layout. If you look at our table, you can quickly see how the bed (data point) is a type of furniture (data structure) and the mixing bowl (data point) is a type of kitchen tool (data structure).
-
-A data structure is also organized in some way — just like the table of “stuff in your apartment” is organized alphabetically.
-
 | Data Structure          | Data Point     |
 |-------------------------|----------------|
 | Furniture               | Bed            |
@@ -22,6 +18,10 @@ A data structure is also organized in some way — just like the table of “stu
 | Kitchen tools           | Wooden spoon   |
 | Technology              | Record player  |
 | Technology              | Television     |
+
+A data “structure” is like a container that stores data in a specific, organized layout. If you look at our table, you can quickly see how the bed (data point) is a type of furniture (data structure) and the mixing bowl (data point) is a type of kitchen tool (data structure).
+
+A data structure is also organized in some way — just like the table of “stuff in your apartment” is organized alphabetically.
 
 ## Why Data Structures?
 
