@@ -1,6 +1,6 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![Intro to Data Structures - Intro to Data Structures](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to explain the basics of several computer science data structures, including linked lists, stacks, queues, hash tables, sets, binary trees, AVL trees, tries, and graphs.
 
 Data structures — how hard could they be? You put your data in a certain structure and then you’re good to go, right? As with anything in computer science, there’s a lot more variety and nuance than that. In this lesson, we’ll introduce data structures and review arrays as a precursor to learning more complex structures.
 
