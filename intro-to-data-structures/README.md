@@ -25,6 +25,8 @@ A data structure is also organized in some way — just like the table of “stu
 
 ## Why Data Structures?
 
+TKTK VIDEO HERE
+
 Data structures specifically define how data points should be organized so they can be accessed, used, and analyzed more easily. It sets the basis for any algorithms or tasks we’d add to it later.
 
 Let’s say you’re moving out of your apartment. You might structure the “stuff in your apartment” in the order you want it put into the moving truck. (Personally, we think you should put the big stuff in first and then add the smaller things on top, but if you have a better strategy, we’re all ears.) 
@@ -50,6 +52,8 @@ For example, this structure is helpful if we’re moving but not quite so useful
 
 ## The Importance of Understanding Data Structures
 
+TKTK VIDEO HERE
+
 Anything that you do, from measuring a click on a web app to creating a data structure on the back end, it all has to actually have this synergy. If you don't have a thorough understanding of a data structure - and by thorough I mean knowing how to use it in some good capacity - then you will not have a clear understanding of how a product on a function level does work and if that something does go wrong.
 
 ### Starting with Basics: The Array
@@ -61,6 +65,10 @@ An array is a collection of items that can be accessed individually via an index
 If we were to format our “kitchen tools” stuff as an array, it would look like this:
 
 tktk - Hunter can you provide an example of an array here? The one in my ga is => ['Frying pan', 'Mixing bowl', 'Spatula', 'Wooden spoon'] with images of each item above the string of the item.
+
+tktk qa note-- here is the original asset for reference (or to keep)
+
+![example of an array with corresponding images](./assets/originals/3-Array.png)
 
 ### Characteristics of an Array
 
@@ -91,6 +99,8 @@ let weatherData = [54, 57, 51, 51, 55, 58, 56]
 ```
 
 You want to calculate the average daily temperature for the week using your computer science skills. You also know you probably want to use a loop to get this answer. Simple enough!
+
+![meteorologist](./assets/originals/4-Meteorologist.png)
 
 ### Limitations of Arrays
 
