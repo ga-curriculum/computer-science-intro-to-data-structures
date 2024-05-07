@@ -1,4 +1,4 @@
-# ![Intro to Data Structures - Intro to Data Structures](./assets/hero.png)
+# ![Computer Science - Intro to Data Structures](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to explain the basics of several computer science data structures, including linked lists, stacks, queues, hash tables, sets, binary trees, AVL trees, tries, and graphs.
 
