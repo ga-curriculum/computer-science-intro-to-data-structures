@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![Computer Science - Intro to Data Structures](./assets/hero.png)
 
 Data Structures features seven lessons that cover foundational data structures: linked lists, stacks, queues, hash tables, sets, binary trees, AVL trees, tries, and graphs.
 
