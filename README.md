@@ -1,27 +1,47 @@
 # ![Computer Science - Intro to Data Structures](./assets/hero.png)
 
-Data Structures features seven lessons that cover foundational data structures: linked lists, stacks, queues, hash tables, sets, binary trees, AVL trees, tries, and graphs.
+## Overview
 
-There is one components to this lesson:
+This module sets the foundation for seven lessons that cover foundational data structures: linked lists, stacks, queues, hash tables, sets, binary trees, AVL trees, tries, and graphs.
 
-1. [Introduction to Data Structures](./intro-to-data-structures/README.md)
+### Prerequisites
 
-## Learning Objectives
+- None specified
 
-By the end of this lesson, you'll be able to:
+### Learning Objectives
 
-- Explain how data structures are used in computer science.
-- Define the five basic operations to perform on a data structure.
-- Build an array and perform basic functions in it.
+By the end of this module, learners will be able to:
 
-## Prerequisites
+- explain the basics of several computer science data structures, including linked lists, stacks, queues, hash tables, sets, binary trees, AVL trees, tries, and graphs.
 
-- tktk
+## Data Set Lessons
 
-## Duration
+| Suggested Order | Lesson name              | Exercises                                            | Difficulty |
+| --------------- | ------------------------ | ---------------------------------------------------- | ---------- |
+| 1               | Intro to Data Structures | none                                                 | Easy       |
+| 2               | Linked Lists             | Implementing a Linked List                           | Moderate   |
+| 3               | Stacks and Queues        | Bracket Matching                                     | Easy       |
+| 4               | Hash Tables              | Implementing a Hash Table                            | Moderate   |
+| 5               | Sets                     | Implementing a Set                                   | Easy       |
+| 6               | Binary Trees and Tries   | Implementing a Binary Tree; Implementing an AVL Tree | Difficult  |
+| 7               | Graphs                   | Implementing a Graph                                 | Difficult  |
 
-- 30 minutes
+## Content
 
-## Additional Resources
+1. Lesson: [Intro to Data Structures](./lesson/README.md)
 
-- [tktk](tktk)
+### Time to Complete
+
+30 min total:
+
+- 30 min - Intro to Data Structures
+
+## Internal resources
+
+✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
+
+🏗️ [Release Notes](./internal-resources/release-notes.md)
+
+---
+
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**

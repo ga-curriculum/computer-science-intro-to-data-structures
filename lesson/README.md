@@ -1,27 +1,16 @@
 # ![Computer Science - Intro to Data Structures](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to explain the basics of several computer science data structures, including linked lists, stacks, queues, hash tables, sets, binary trees, AVL trees, tries, and graphs.
-
 Data structures — how hard could they be? You put your data in a certain structure and then you’re good to go, right? As with anything in computer science, there’s a lot more variety and nuance than that. In this lesson, we’ll introduce data structures and review arrays as a precursor to learning more complex structures.
 
 ## What is a Data Structure?
 
 Take this data set, for example.
 
-| Data Structure          | Data Point     |
-|-------------------------|----------------|
-| Furniture               | Bed            |
-| Furniture               | Couch          |
-| Kitchen tools           | Frying pan     |
-| Kitchen tools           | Mixing bowl    |
-| Kitchen tools           | Spatula        |
-| Kitchen tools           | Wooden spoon   |
-| Technology              | Record player  |
-| Technology              | Television     |
-
 A data “structure” is like a container that stores data in a specific, organized layout. If you look at our table, you can quickly see how the bed (data point) is a type of furniture (data structure) and the mixing bowl (data point) is a type of kitchen tool (data structure).
 
 A data structure is also organized in some way — just like the table of “stuff in your apartment” is organized alphabetically.
+
+![Stuff in my Apartment](./assets/1-Stuff-In-Apartment-Table.png)
 
 ## Why Data Structures?
 
@@ -50,13 +39,15 @@ No one data structure is equally efficient for all actions, and some data struct
 
 For example, this structure is helpful if we’re moving but not quite so useful if we’re trying to figure out what stuff is in the apartment (i.e., searching or accessing this data set).
 
+![When to put stuff in the moving Truck](./assets/2-Moving-Truck-Table.png)
+
 ## The Importance of Understanding Data Structures
 
 TKTK VIDEO HERE
 
 Anything that you do, from measuring a click on a web app to creating a data structure on the back end, it all has to actually have this synergy. If you don't have a thorough understanding of a data structure - and by thorough I mean knowing how to use it in some good capacity - then you will not have a clear understanding of how a product on a function level does work and if that something does go wrong.
 
-### Starting with Basics: The Array
+## Starting with Basics: The Array
 
 The most simple, commonly used data structure across all programming languages is one you already know and love: An array.
 
@@ -64,13 +55,9 @@ An array is a collection of items that can be accessed individually via an index
 
 If we were to format our “kitchen tools” stuff as an array, it would look like this:
 
-tktk - Hunter can you provide an example of an array here? The one in my ga is => ['Frying pan', 'Mixing bowl', 'Spatula', 'Wooden spoon'] with images of each item above the string of the item.
-
-tktk qa note-- here is the original asset for reference (or to keep)
-
 ![example of an array with corresponding images](./assets/originals/3-Array.png)
 
-### Characteristics of an Array
+## Characteristics of an Array
 
 Arrays share a few key characteristics. They...
 
@@ -88,7 +75,7 @@ Their specifications are also consistent across most programming languages.
 | myArray[i]               | Return the value at the index in the array.    |
 | myArray[i] = value       | Set the value at the index in the array.       |
 
-### Putting Arrays to Work
+## Putting Arrays to Work
 
 Arrays are also an excellent choice for storing data when you know the exact size of the data set.
 
@@ -102,7 +89,7 @@ You want to calculate the average daily temperature for the week using your comp
 
 ![meteorologist](./assets/originals/4-Meteorologist.png)
 
-### Limitations of Arrays
+## Limitations of Arrays
 
 Unfortunately, an array can’t immediately answer all of the questions we might ask about our weather data:
 
@@ -121,22 +108,74 @@ Let’s take a quick look at the data structures we’ll cover throughout the re
 
 ## The Great Data Structures
 
-tktk - Hunter there should be a graphic to represent each data structure located beneath the description of each data structure.
+### Linked lists - Lists that store data inside of nodes that point to each other.
+<br>
 
-Linked lists - Lists that store data inside of nodes that point to each other.
+![Linked lists](./assets/linked-lists.png)
+<br>
+<hr>
+<br>
 
-Queues - Lists of ordered values in which the first item in is the first item out.
+### Queues - Lists of ordered values in which the first item in is the first item out.
+<br>
 
-Sets - Similar to an array, but can only contain unique values.
+![Queues](./assets/queues.png)
+<br>
+<hr>
+<br>
 
-Trees - Tree structures in which nodes can store lists of child nodes; almost always used for strings.
+### Sets - Similar to an array, but can only contain unique values.
+<br>
 
-Graphs - Collections of nodes and edges in which nodes store data and edges represent connections between data.
+![Sets](./assets/sets.png)
+<br>
+<hr>
+<br>
 
-Stacks - Lists of ordered values in which the first item in is the last item out.
+### Trees - Tree structures in which nodes can store lists of child nodes; almost always used for strings.
+<br>
 
-Hash Tables - List-like structures that use a hash function to generate keys for values.
+![Trees](./assets/trees.png)
+<br>
+<hr>
+<br>
 
-Binary Trees - Node-based structures that store values using left and right pointers.
+### Graphs - Collections of nodes and edges in which nodes store data and edges represent connections between data.
+<br>
 
-AVL Trees - A binary tree that's balanced. Notice how each side of this tree is a similar height? That means it's balanced.
+![Graphs](./assets/graphs.png)
+<br>
+<hr>
+<br>
+
+### Stacks - Lists of ordered values in which the first item in is the last item out.
+<br>
+
+![Stacks](./assets/stacks.png)
+<br>
+<hr>
+<br>
+
+### Hash Tables - List-like structures that use a hash function to generate keys for values.
+<br>
+
+![Hash Tables](./assets/hash-tables.png)
+<br>
+<hr>
+<br>
+
+### Binary Trees - Node-based structures that store values using left and right pointers.
+<br>
+
+![Binary Trees](./assets/binary-trees.png)
+<br>
+<hr>
+<br>
+
+### AVL Trees - A binary tree that's balanced. Notice how each side of this tree is a similar height? That means it's balanced.
+<br>
+
+![AVL Trees](./assets/avl-trees.png)
+<br>
+<hr>
+<br>
