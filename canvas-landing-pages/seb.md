@@ -1,4 +1,4 @@
-# ![Computer Science - Intro to Data Structures](./assets/hero.png)
+# ![Computer Science - Intro to Data Structures](../assets/hero.png)
 
 ## Overview
 
